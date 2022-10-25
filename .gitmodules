@@ -1,0 +1,15 @@
+[submodule "bwd-2022-nextjs"]
+	path = bwd-2022-nextjs
+	url = https://github.com/hoangtrung1801/bwd-2022-nextjs
+[submodule "bwd-2022-backend"]
+	path = bwd-2022-backend
+	url = https://github.com/hoangtrung1801/bwd-2022-backend
+[submodule "bwd-2022-admin"]
+	path = bwd-2022-admin
+	url = https://github.com/hoangtrung1801/bwd-2022-admin
+[submodule "bwd-hackathon-tailwind"]
+	path = bwd-hackathon-tailwind
+	url = https://github.com/hoangtrung1801/bwd-hackathon-tailwind
+[submodule "bwd-2022-v1"]
+	path = bwd-2022-v1
+	url = https://github.com/hoangtrung1801/bwd-2022-v1
